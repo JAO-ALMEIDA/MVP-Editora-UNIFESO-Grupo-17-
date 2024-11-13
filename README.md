@@ -6,7 +6,7 @@ Esse repositório tem como objetivo abrigar o projeto MVP - Editora Unifeso do G
 - João Marcos Cabral Coelho
 - João Victor Lobato Barros
 
-• Este Projeto MVP será um protótipo de uma versão funcional da Editora Unifeso. 
+• Este Projeto MVP será um protótipo de uma versão funcional da plataforma de publicações da editora Unifeso. 
 
 • Desenvolvido com as tecnologias HTML e CSS. Outras ferramentas que serão utilizadas são planilhas Excel, o site de hospedagem GitHub e o site de criação de protótipos Figma.
 
