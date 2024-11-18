@@ -3,8 +3,6 @@ Esse repositório tem como objetivo abrigar o projeto MVP - Editora Unifeso do G
 • INTEGRANTES DO GRUPO: 
 - João Vitor de Almeida Oliveira
 - Jefferson da Silva Paixão
-- João Marcos Cabral Coelho
-- João Victor Lobato Barros
 
 • Este Projeto MVP será um protótipo de uma versão funcional da plataforma de publicações da editora Unifeso. 
 
