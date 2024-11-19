@@ -1,20 +1,26 @@
+# MVP Editora Unifeso
+
 Esse repositório tem como objetivo abrigar o projeto MVP - Editora Unifeso do GRUPO #17 da turma de Análise e Desenvolvimento de Sistemas da Unifeso. 
+O projeto será um protótipo de uma versão funcional da plataforma de publicações da editora Unifeso. 
 
-• INTEGRANTES DO GRUPO: 
-- João Vitor de Almeida Oliveira
-- Jefferson da Silva Paixão
+## INTEGRANTES DO GRUPO: 
+-  João Vitor de Almeida Oliveira
+-  Jefferson da Silva Paixão
 
-• Este Projeto MVP será um protótipo de uma versão funcional da plataforma de publicações da editora Unifeso. 
-
-• Desenvolvido com as tecnologias HTML e CSS. Outras ferramentas que serão utilizadas são planilhas Excel, o site de hospedagem GitHub e o site de criação de protótipos Figma.
-
-• PÚBLICO ALVO:
+## FERRAMENTAS UTILIZADAS
+ - HTML
+ - CSS
+ - GitHub
+ - Figma
+ - Excel
+   
+## PÚBLICO ALVO:
 - Estudantes de todos os cursos.
 - Funcionários da instituição.
 - Equipe de professores.
 - Diretoria e administração da instituição.
 
-• PROBLEMAS ENVOLVENDO O SISTEMA ATUAL:
+## PROBLEMAS ENVOLVENDO O SISTEMA ATUAL:
 - Dificuldade de acesso aos arquivos, site pouco intuitivo.
 - Site lento com problemas no carregamento.
 - Design ultrapassado e pouco atrativo.
