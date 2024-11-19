@@ -1,6 +1,6 @@
 # MVP Editora Unifeso
 
-Esse repositório tem como objetivo abrigar o projeto MVP - Editora Unifeso do GRUPO #17 da turma de Análise e Desenvolvimento de Sistemas da Unifeso. 
+Esse repositório tem como objetivo abrigar o projeto MVP - Editora Unifeso do GRUPO #17 da turma de Análise e Desenvolvimento de Sistemas, da Unifeso. 
 O projeto será um protótipo de uma versão funcional da plataforma de publicações da editora Unifeso. 
 
 ## INTEGRANTES DO GRUPO: 
