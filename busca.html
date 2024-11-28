@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca - Editora Unifeso</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <img src="imagens/feso_resized.jfif" alt="Logo da Unifeso" class="logo">
+        <h1>Editora Unifeso</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="busca.html"><i class="fas fa-search"></i></a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="busca">
+            <h2>Pesquisa de Publicações</h2>
+            <div class="search-container">
+                <form>
+                    <input type="text" placeholder="Buscar por título, autor, palavras-chave...">
+                    <select>
+                        <option value="">Categoria</option>
+                        <option value="artigos">Artigos</option>
+                        <option value="livros">Livros</option>
+                        <option value="teses">Teses</option>
+                        <option value="dissertacoes">Dissertações</option>
+                    </select>
+                    <button type="submit">Buscar</button>
+                </form>
+            </div>
+            <section id="publications">
+                <h2>Publicações Recentes</h2>
+                <article class="publication">
+                    <h3>Título da Publicação</h3>
+                    <p>Autor: Nome do Autor</p>
+                    <p>Data de Publicação: DD/MM/AAAA</p>
+                    <p>Resumo: Breve descrição da publicação.</p>
+                    <a href="#">Visualizar Detalhes</a>
+                </article>
+                <!-- Adicione mais artigos conforme necessário -->
+            </section>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Editora Unifeso. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
