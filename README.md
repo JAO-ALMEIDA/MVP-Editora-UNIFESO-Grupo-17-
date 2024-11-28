@@ -11,7 +11,6 @@ O projeto será um protótipo de uma versão funcional da plataforma de publica�
  - HTML
  - CSS
  - GitHub
- - Figma
  - Excel
    
 ## PÚBLICO ALVO:
