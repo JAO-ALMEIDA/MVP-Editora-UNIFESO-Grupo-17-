@@ -50,6 +50,6 @@ body, html {
 }
 
 .image-side {
-    background: url(../img/img_tela_inicial/imgfundo.jpg) no-repeat center center;
+    background: url(../img/imgfundo.jpg) no-repeat center center;
     background-size: cover;
 }
