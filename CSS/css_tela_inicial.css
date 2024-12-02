@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.logo-side, .image-side {
+    flex: 1;
+}
+
+.logo-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.logo-side img {
+    max-width: 80%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.logo-side button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(0,107,100);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.logo-side button:hover {
+    background-color: rgb(0,107,100);
+}
+
+.image-side {
+    background: url(../img/img_tela_inicial/imgfundo.jpg) no-repeat center center;
+    background-size: cover;
+}
